@@ -2,12 +2,13 @@ import pydirectinput
 import time
 
 # 0.0175 is about the fastest that EoS will accept inputs.
-pydirectinput.PAUSE=0.0175
+pydirectinput.PAUSE = 0.0175
 
 """
  * This is where the keyboard input is executed.  Start the script on the Wonder Mail S password input screen, with the cursor on 'N'.
  * This script assumes that you have "A" bound to "S" on your keyboard, and are using the arrow keys for directional inputs.
 """
+
 
 def outputCode(code):
     # Gives time for the user to switch their tab to their emulator.
@@ -65,6 +66,7 @@ def outputCode(code):
 
     # Presses "END".
     pydirectinput.press("s")
+
 
 # Used for directional inputs.
 def inputDirection(direction, times):

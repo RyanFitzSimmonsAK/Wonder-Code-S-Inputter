@@ -4,11 +4,11 @@ from Output import *
 This is a useful tool for people playing Pokémon Mystery Dungeon: Explorers of Sky (EoS) on an emulator.  
 Wonder Code S is a mechanic that allows players to make themselves missions to complete.  
 However, these "Wonder Codes" used to create the missions are time-consuming and tedious to input.  
-This tool does the inputs for the user extremely quickly, and has functionality to input multiple codes at once.
+This tool does the inputs for the user extremely quickly.
 """
 
-def main():
 
+def main():
     file = open("code.txt", "r")
     codes = getCodesList(file)
 
