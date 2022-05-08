@@ -8,4 +8,4 @@ Download the project as a zip file, and unpack it.  Open it in your IDE of choic
 
 # Future
 
-I plan on adding functionality for multiple Wonder Code S inputs in short succession.
+I plan on adding functionality for inputting multiple Wonder Code S codes in short succession.
