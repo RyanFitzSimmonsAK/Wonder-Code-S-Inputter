@@ -1,4 +1,4 @@
-# Wonder-Code-S-Inputter
+# Wonder Code S Inputter
 
 This is a useful tool for people playing Pokémon Mystery Dungeon: Explorers of Sky (EoS) on an emulator.  Wonder Code S is a mechanic that allows players to make themselves missions to complete.  However, these "Wonder Codes" used to create the missions are time-consuming and tedious to input.  This tool does the inputs for the user extremely quickly.
 
